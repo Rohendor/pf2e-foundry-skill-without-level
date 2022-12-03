@@ -1,0 +1,48 @@
+{
+    "_id": "kMwg3Dv8J2dIVAHD",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Ancestral Crafting",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Quando Crafti oggetti legati ad una particolare cultura o che segue lo stile di una particolare cultura ottieni uno sconto del 25% sul costo dell'oggetto e l'oggetto guadagna il tratto appropriato relativo all'ancestry con cui è stato creato </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "master in Crafting"
+                },
+                {
+                    "value":"expert in Lore (Specific Ancestry)"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

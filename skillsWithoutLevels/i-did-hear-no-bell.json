@@ -1,0 +1,45 @@
+{
+    "_id": "8F9cHdB1grLIa0yW",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "I did hear no bell",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Ogni volta che ottieni la condizione Wounded tira flat check da 15, se lo superi la tua condizione di wounded non aumenta o non la ricevi</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "expert in Survival"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

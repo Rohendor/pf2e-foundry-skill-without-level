@@ -1,0 +1,48 @@
+{
+    "_id": "g0ypG0YoiK7Q4Uk4",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Clever Counterspell",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>You creatively apply your prepared spells to Counterspell a much wider variety of your opponents’ magic. Instead of being able to counter a foe’s spell with Counterspell only if you have that same spell prepared, you can use Counterspell as long as you have the spell the foe is casting in your spellbook</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "expert in Arcana"
+                },
+                {
+                    "value": "Counterspell"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

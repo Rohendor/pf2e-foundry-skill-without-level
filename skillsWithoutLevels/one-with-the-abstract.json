@@ -1,0 +1,49 @@
+{
+    "_id": "O89kF536VVFtTEft",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "One with the Abstract",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Una volta al giorno puoi lanciare un incantesimo Augury il cui flat check è aumentato ma che può vedere indefinitamente lontano nel futuro, nel caso di Weal and Woe è preciso su cosa andrà bene o male e qualora vada molto bene, prevedere con precisione il futuro</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "legendary in Occultism"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "concentrate",
+                "exploration",
+                "secret",
+                "rysharian",
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

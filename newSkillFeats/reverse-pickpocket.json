@@ -1,0 +1,45 @@
+{
+    "_id": "9FBjQz4Kb5u9Vbqz",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Reverse Pickpocket",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Quando utilizzi l'azione Steal, puoi aggiungere un oggetto all'inventario della creatura invece di rubarlo</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "expert in Thievery"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

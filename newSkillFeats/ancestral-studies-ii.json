@@ -1,0 +1,48 @@
+{
+    "_id": "mOM56r8jqRqNhW4Z",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Ancestral Studies II",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p> Ottieni una Ancestry Feat di Lv 9 della Ancestry legata alla skill di Lore</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "master in Lore (Ancestry)"
+                },
+                {
+                    "value":"Ancestral Studies I"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "TDlwWFVtIDQrpqlX",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Feel the Life of the World",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p> Finchè sei cosciente puoi ottenere informazioni relative allo state fisico generale di ogni creatura vivente attorno a te </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "legendary in Nature"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

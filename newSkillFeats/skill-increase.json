@@ -1,0 +1,40 @@
+{
+    "_id": "uKM18EMc8Unxe0UE",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Skill Increase",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Scegli una Skill, questa aumenta  di Rank. Questo incremento non può portare una Skill oltre il rank della skill più alta che possiedi (Se la tua skill più alta è Master, non puoi portare una Skill da Master a Legendary) </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general"
+            ]
+        }
+    },
+    "type": "feat"
+}

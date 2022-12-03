@@ -1,0 +1,52 @@
+{
+    "_id": "q3hDA73lZsH0xPs1",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Rysharian Aura Sight",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Quando utilizzi Aura Sight, puoi impiegare 5 minuti invece di 1 per ottenere informazioni aggiuntive relative allo stato di risonanza del bersaglio </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "master in Occultism"
+                },
+                {
+                    "value":"Aura Sight"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "concentrate",
+                "secret",
+                "exploration",
+                "general",
+                "rysharian",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

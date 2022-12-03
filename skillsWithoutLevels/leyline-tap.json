@@ -1,0 +1,45 @@
+{
+    "_id": "tp9H0a2EBwBAIo74",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Leyline Tap",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p> Una volta al giorno puoi effettuare una prova di arcana difficile per il tuo livello per incanalare l'energia arcana del mondo e recuperare uno slot incantesimo di livello più alto-1 (massimo lv8) </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "legendary in Arcana"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

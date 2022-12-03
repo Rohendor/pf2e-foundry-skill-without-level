@@ -1,0 +1,49 @@
+{
+    "_id": "NzLuLcsaL4QAWC2X",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Rysharian Crystal Healing",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p> Se consci la frequenza di risonanza e hai la possibilità di riprodurre tale frequenza con i tuoi cristalli o affini, puoi utilizzare anche l'azione Treat Wounds quando utilizzi Crystal Healing, Ottenere un fallimento critico in questo modo non infligge danno</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "expert in Occultism"
+                },
+                {
+                    "value":"Crystal Healing"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "rare",
+            "value": [
+                "general",
+                "skill",
+                "rysharian"
+            ]
+        }
+    },
+    "type": "feat"
+}

@@ -1,0 +1,50 @@
+{
+    "_id": "fULTC4cFVByquehw",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Aura Warrior",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Puoi utilizzare Aura Sight in battaglia come azione che costa AA, la frequenza dell'azione è di una volta ogni minuto e il tempo impiegato per ottenere le informazioni è drasticamente ridotto </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "legendary in Occultism"
+                },
+                {
+                    "value":"Rysharian Aura Sight"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "rare",
+            "value": [
+                "concentrate",
+                "secret",
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

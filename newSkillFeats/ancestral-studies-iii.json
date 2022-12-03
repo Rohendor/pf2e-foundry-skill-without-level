@@ -1,0 +1,48 @@
+{
+    "_id": "IC3AtuIJuaNNCl3R",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Ancestral Studies III",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p> Ottieni una Ancestry Feat di Lv 13 della Ancestry legata alla skill di Lore</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "legendary in Lore (Ancestry)"
+                },
+                {
+                    "value":"Ancestral Studies II"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

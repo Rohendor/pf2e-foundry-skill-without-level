@@ -1,0 +1,48 @@
+{
+    "_id": "RNjDnd2Df7FvaJog",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Boulder Puncher",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Una volta al giorno, quando effettui una prova di Atletica puoi tirare due d20 e scegliere quale valore utilizzare per la prova </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "legendary in Athletics"
+                },
+                {
+                    "value":"Strenght 18 or more"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

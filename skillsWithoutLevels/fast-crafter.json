@@ -1,0 +1,45 @@
+{
+    "_id": "sI5s1xU7TzpBHtCy",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Fast Crafter",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Puoi utilizzare l'azione Craft Rapido per craftare più rapidamente oggetti</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "trained in Crafting"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

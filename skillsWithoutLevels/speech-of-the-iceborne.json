@@ -1,0 +1,48 @@
+{
+    "_id": "9TK2wWyQb3kXQbkj",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Speech of the Iceborne",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p> You've learned the ancient tongue spoken by the creatures of the far South</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "master in Diplomacy"
+                },
+                {
+                    "value":"master in Intimidation"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "rare",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

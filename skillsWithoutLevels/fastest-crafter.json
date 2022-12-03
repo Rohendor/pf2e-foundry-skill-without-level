@@ -1,0 +1,45 @@
+{
+    "_id": "Hz2MGdMKHjKgd5rl",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Fastest Crafter",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Quando utilizzi craft rapido per craftare oggetti non incorri nell'incremento di prezzo per quanto riguarda il successo e il successo critico </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "expert in Crafting"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

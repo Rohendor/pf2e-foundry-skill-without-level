@@ -1,0 +1,45 @@
+{
+    "_id": "zljdhaa4nAbjFnFG",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Speedster",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p> I bonus di velocità di circostanza si sommano tra di loro invece di prendere il maggiore tra i bonus </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "master in Acrobatics"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

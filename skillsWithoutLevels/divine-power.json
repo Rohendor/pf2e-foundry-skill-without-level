@@ -1,0 +1,49 @@
+{
+    "_id": "UVHtplN8Af2ixZX9",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Divine Power",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Una volta al giorno puoi effettuare una prova di Religione difficile per il tuo livello per incanalare l'energia la forza divina nel mondo e recuperare uno slot incantesimo di livello più alto-1 (massimo lv8)</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "master in Religion"
+                },
+                {
+                    "value":"Sei un Dio o un Araldo di una divinità"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "divino",
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

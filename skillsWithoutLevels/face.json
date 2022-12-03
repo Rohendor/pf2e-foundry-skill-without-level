@@ -1,0 +1,45 @@
+{
+    "_id": "EKLGaC0q3E0furF4",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Face",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Una volta al giorno, quando fallisci nel mentire ad una creatura (Critico o no) puoi considerare il fallimento come un successo</p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "legendary in Deception"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "common",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}

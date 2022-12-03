@@ -1,0 +1,45 @@
+{
+    "_id": "I9wXcaTKex3rkzMs",
+    "img": "systems/pf2e/icons/features/feats/feats.webp",
+    "name": "Permanent Talisman",
+    "system": {
+        "actionCategory": {
+            "value": ""
+        },
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "description": {
+            "value": "<p>Il talismano legato ad un oggetto può essere utilizzato una volta al giorno senza che esso si rompa, il talismano può essere utilizzato un'ennesima volta tuttavia si rompe come se fosse un talismano tradizionale </p>"
+        },
+        "featType": {
+            "value": "skill"
+        },
+        "level": {
+            "value": null
+        },
+        "prerequisites": {
+            "value": [
+                {
+                    "value": "master in Crafting"
+                }
+            ]
+        },
+        "rules": [],
+        "source": {
+            "value": "Ombraluna"
+        },
+        "traits": {
+            "custom": "",
+            "rarity": "uncommon",
+            "value": [
+                "general",
+                "skill"
+            ]
+        }
+    },
+    "type": "feat"
+}
